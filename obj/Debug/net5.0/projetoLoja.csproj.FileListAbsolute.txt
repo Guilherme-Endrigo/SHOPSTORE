@@ -1,0 +1,16 @@
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\projetoLoja.exe
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\projetoLoja.deps.json
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\projetoLoja.runtimeconfig.json
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\projetoLoja.runtimeconfig.dev.json
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\projetoLoja.dll
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\ref\projetoLoja.dll
+C:\IGTI\LetsCode\backEnd\projetoLoja\bin\Debug\net5.0\projetoLoja.pdb
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.csproj.AssemblyReference.cache
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.AssemblyInfoInputs.cache
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.AssemblyInfo.cs
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.csproj.CoreCompileInputs.cache
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.dll
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\ref\projetoLoja.dll
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.pdb
+C:\IGTI\LetsCode\backEnd\projetoLoja\obj\Debug\net5.0\projetoLoja.genruntimeconfig.cache
