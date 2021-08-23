@@ -41,7 +41,7 @@ namespace projetoLoja
 
       User seller = new User
       {
-        id = DataBase.Users.Count + 1,
+        id = DataBase.Sellers.Count + 1,
         name = _name,
         user = _userName,
         password = _passaword,
@@ -49,7 +49,7 @@ namespace projetoLoja
         seller = true
       };
 
-      DataBase.Users.Add(seller);
+      DataBase.Sellers.Add(seller);
       Menu.GeneralMenuOption();
     }
 
@@ -66,7 +66,7 @@ namespace projetoLoja
 
       var client = new User
       {
-        id = DataBase.Users.Count + 1,
+        id = DataBase.Clients.Count + 1,
         name = _name,
         user = _userName,
         password = _passaword,
@@ -74,7 +74,7 @@ namespace projetoLoja
         client = true
       };
 
-      DataBase.Users.Add(client);
+      DataBase.Clients.Add(client);
       Menu.GeneralMenuOption();
     }
 
