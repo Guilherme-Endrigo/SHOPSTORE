@@ -172,6 +172,7 @@ namespace projetoLoja
 
 
         case "NÃO":
+        case "NAO":
           return ReadAdress();
 
         default:
