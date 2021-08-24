@@ -39,7 +39,7 @@ namespace projetoLoja
       Address _deliveryAdress = ReadAdress();
       Address _billingAddress = sameAddress(_deliveryAdress);
 
-      User seller = new User
+      Sellers seller = new Sellers
       {
         id = DataBase.Sellers.Count + 1,
         name = _name,
@@ -64,7 +64,7 @@ namespace projetoLoja
       Address _deliveryAdress = ReadAdress();
       Address _billingAddress = sameAddress(_deliveryAdress);
 
-      var client = new User
+      var client = new Client
       {
         id = DataBase.Clients.Count + 1,
         name = _name,

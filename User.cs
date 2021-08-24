@@ -2,7 +2,7 @@ using System;
 
 namespace projetoLoja
 {
-  public class User : ICliente, ISeller
+  public class User
   {
     public int id { get; set; }
     public string name { get; set; }
